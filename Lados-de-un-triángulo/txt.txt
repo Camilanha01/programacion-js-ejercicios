@@ -1,0 +1,4 @@
+Dados los lados de un triángulo, informar si es equilátero, isósceles o escaleno.
+
+○ Hacerlo sin utilizar operadores lógicos AND, OR, NOT (ejercicio-1-1.js).
+○ Hacerlo utilizando operadores lógicos AND, OR, NOT (ejercicio-1-2.js).
